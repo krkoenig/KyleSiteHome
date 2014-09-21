@@ -1,0 +1,8 @@
+.content {
+    display: none;
+}
+
+.section {
+    float: left;
+    width: 33%;
+}
