@@ -1,8 +1,17 @@
 .content {
     display: none;
+    border: 2px solid black;
+    //border-top: 0;
 }
 
 .section {
-    float: left;
-    width: 33%;
+    display:inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin: 1% 0% 1% 2.5%;   
+}
+
+.header {
+    border: 2px solid black;
+    text-align: center;
 }
